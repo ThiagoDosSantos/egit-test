@@ -1,2 +1,7 @@
-﻿bin
-.metadata
+﻿# Ignore all bin directories
+bin
+# Ignore all files ending with ~
+*~
+# Ignore the target directory
+# Matches "target" in any subfolder
+target/
