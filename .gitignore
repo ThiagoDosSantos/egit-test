@@ -5,3 +5,4 @@ bin
 # Ignore the target directory
 # Matches "target" in any subfolder
 target/
+.metadata
