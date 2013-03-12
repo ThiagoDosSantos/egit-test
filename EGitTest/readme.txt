@@ -1,1 +1,0 @@
-This project was based on the following tutorial: http://www.vogella.com/articles/EGit/article.html
