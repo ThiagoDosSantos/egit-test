@@ -29,7 +29,19 @@ team > shareproject > GIT
 Então você deve selecionar em REPOSITORY o repositório já existente que você acabou de clonar do github.
 
 
-Branches:
+Branches: 
+
+Branches são caminhos independentes que você pode dar ao seu projeto sem por em risco o projeto master.
+
+Use branches quando você quiser contribuir com outros repositórios. Você da um fork no repositorio, clona
+ele para a sua maquina e entao cria uma branche com um nome sugestivo sobre o que voce quer adicionar/alterar 
+ao projeto original. Assim, o projeto original que voce fez o fork permanecera intocavel na branche master, e
+voce poderá trabalhar tranquilo na branch que voce criou para adicionar a feature. Apos adicionar a feauture nessa
+branche e realizar os devidos commits, voce pode enviar essa branche para o repositorio do projeto original, atraves
+de um pull request. 
+
+TIP: Antes de realizar o pull request para o projeto original, atualize o fork master com o projeto original e, caso haja
+atualizacoes, faça o rebase da sua branche que voce esta trabalhando na adicao da feature para a branche master atualizada.
 
 
 
