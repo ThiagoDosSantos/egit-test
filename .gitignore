@@ -6,3 +6,9 @@ bin
 # Matches "target" in any subfolder
 target/
 .metadata
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+
