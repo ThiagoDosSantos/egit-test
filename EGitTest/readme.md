@@ -28,6 +28,8 @@ team > shareproject > GIT
 
 Então você deve selecionar em REPOSITORY o repositório já existente que você acabou de clonar do github.
 
-That's it!
+
+Branches:
+
 
 
