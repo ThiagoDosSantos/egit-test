@@ -1,7 +1,11 @@
 package br.com.test;
 
 public class GitTest {
-	public static void main(String[] args) {
-	    System.out.println("Git is cool!");
+	
+	public void doIt(){
+		
+		System.out.println("add method doIt");
+		
 	}
+	
 }
