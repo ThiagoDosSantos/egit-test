@@ -6,6 +6,8 @@ public class GitTest {
 		
 		System.out.println("add method doIt");
 		
+		System.out.println("finish");
+		
 	}
 	
 }
