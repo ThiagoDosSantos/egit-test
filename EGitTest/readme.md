@@ -28,6 +28,19 @@ team > shareproject > GIT
 
 Então você deve selecionar em REPOSITORY o repositório já existente que você acabou de clonar do github.
 
+OBS: Com o Vraptor foi um pouco diferente:
+
+O Vraptor possui varios submodulos dentro do repositorio do git (vraptor-blank, vraptor-core, etc). Eu quero trabalhar
+no Vraptor-core, que é o código do vraptor propriamente dito. Pra fazer isso, voce faz normalmente o clone do projeto
+
+File > Import > Git > Projects from Git > ...
+
+So que na parte de importar o projeto, voce nao seleciona o "Use the New Project Wizard". Simplesmente cancele essa
+parte (clique em cancel mesmo).
+
+Agora, voce importa um projeto maven existente, como vc faz normalmente para importar um projeto maven, e seleciona a pasta onde esta o
+vrpator core. Quando a importacao tiver sido concluída, voce vai em team > shareproject > GIT. E pronto.
+
 
 Branches: 
 
